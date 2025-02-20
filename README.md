@@ -49,7 +49,8 @@ Reliability index for different energy sources, split by location.
 Comparison of energy cost and cost per unit across various energy sources.
 
 ### 8. DashBoard
-This sheet appears to be empty, possibly reserved for visualizations.
+visualizations.
+![Dashboard Image](DashBoard.png)
 
 ## Use Cases
 This dataset can be useful for:
@@ -78,6 +79,3 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 ## License
 This project is open-source and available for educational and research purposes.
 
-![Dashboard Image](DashBoard.png)
-
-[Download Research PDF](EnergyConsumptionAnalysisReport.pdf)
