@@ -78,6 +78,6 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 ## License
 This project is open-source and available for educational and research purposes.
 
-![Dashboard Image](path/to/dashboard_image.png)
+![Dashboard Image](DashBoard.png)
 
-[Download Research PDF](path/to/research.pdf)
+[Download Research PDF](EnergyConsumptionAnalysisReport.pdf)
