@@ -69,7 +69,6 @@ This dataset can be useful for:
 3. Develop predictive models for energy consumption trends using `scikit-learn`.
 
 ## Future Work
-- Add data visualizations to the `DashBoard` sheet.
 - Implement machine learning models to predict energy consumption and costs.
 - Enhance data cleaning and outlier detection.
 
